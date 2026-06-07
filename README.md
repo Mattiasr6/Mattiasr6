@@ -1,19 +1,13 @@
 <h1 align="center">Hi 👋, I am Mattias</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mattiasr6&label=Profile+views&color=blue&style=flat-square" alt="views" />
+  <img src="https://komarev.com/ghpvc/?username=Mattiasr6&label=Profile+views&color=blue" alt="views" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/Mattiasr6">
-    <img src="https://img.shields.io/github/followers/Mattiasr6?label=Followers&style=social" alt="followers" />
-  </a>
-  <a href="https://github.com/Mattiasr6?tab=repositories">
-    <img src="https://img.shields.io/github/repos/Mattiasr6?label=Repos&style=social" alt="repos" />
-  </a>
-  <a href="https://github.com/Mattiasr6?tab=stars">
-    <img src="https://img.shields.io/github/stars/Mattiasr6?label=Stars&style=social" alt="stars" />
-  </a>
+  <img src="https://img.shields.io/github/followers/Mattiasr6?label=Followers" alt="followers" />
+  <img src="https://img.shields.io/github/repos/Mattiasr6?label=Repos" alt="repos" />
+  <img src="https://img.shields.io/github/stars/Mattiasr6?label=Stars&color=yellow" alt="stars" />
 </p>
 
 ---
@@ -57,33 +51,33 @@
     <tr>
       <td><a href="https://github.com/Mattiasr6/MattCode"><b>MattCode</b></a></td>
       <td>AI coding agent for the terminal</td>
-      <td><img src="https://img.shields.io/github/stars/Mattiasr6/MattCode?style=social" alt="stars" /></td>
+      <td><img src="https://img.shields.io/github/stars/Mattiasr6/MattCode" alt="stars" /></td>
     </tr>
     <tr>
       <td><a href="https://github.com/Mattiasr6/whaticket-bot"><b>whaticket-bot</b></a></td>
       <td>WhatsApp ticketing + AI</td>
-      <td><img src="https://img.shields.io/github/stars/Mattiasr6/whaticket-bot?style=social" alt="stars" /></td>
+      <td><img src="https://img.shields.io/github/stars/Mattiasr6/whaticket-bot" alt="stars" /></td>
     </tr>
     <tr>
       <td><a href="https://github.com/Mattiasr6/HomeServer"><b>HomeServer</b></a></td>
       <td>Personal server infrastructure</td>
-      <td><img src="https://img.shields.io/github/stars/Mattiasr6/HomeServer?style=social" alt="stars" /></td>
+      <td><img src="https://img.shields.io/github/stars/Mattiasr6/HomeServer" alt="stars" /></td>
     </tr>
     <tr>
       <td><a href="https://github.com/Mattiasr6/KernelCrew"><b>KernelCrew</b></a></td>
       <td>Online courses platform</td>
-      <td><img src="https://img.shields.io/github/stars/Mattiasr6/KernelCrew?style=social" alt="stars" /></td>
+      <td><img src="https://img.shields.io/github/stars/Mattiasr6/KernelCrew" alt="stars" /></td>
     </tr>
     <tr>
       <td><a href="https://github.com/Mattiasr6/Soporte_Tecnico"><b>Soporte Técnico</b></a></td>
       <td>Technical support reporting</td>
-      <td><img src="https://img.shields.io/github/stars/Mattiasr6/Soporte_Tecnico?style=social" alt="stars" /></td>
+      <td><img src="https://img.shields.io/github/stars/Mattiasr6/Soporte_Tecnico" alt="stars" /></td>
     </tr>
   </tbody>
 </table>
 
 <p align="center">
-  <a href="https://github.com/Mattiasr6?tab=repositories"><img src="https://img.shields.io/badge/All+Repos-236ad3?style=for-the-badge&logo=github&logoColor=white" alt="repos" /></a>
+  <a href="https://github.com/Mattiasr6?tab=repositories"><img src="https://img.shields.io/badge/All+Repos-236ad3?logo=github&logoColor=white" alt="repos" /></a>
 </p>
 
 ---
