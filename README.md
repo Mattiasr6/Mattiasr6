@@ -1,83 +1,89 @@
-<h1 align="center">Hi 👋, I am Mattias</h1>
+<h1 align="center">Hi 👋, I'm Mattias</h1>
+<h3 align="center">Full-Stack Developer & AI Enthusiast from Bolivia</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mattiasr6&label=Profile+views&color=blue" alt="views" />
-</p>
-
-<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Mattiasr6&label=Profile+views&color=0e75b6&style=flat" alt="views" />
   <img src="https://img.shields.io/github/followers/Mattiasr6?label=Followers" alt="followers" />
-  <img src="https://img.shields.io/badge/Repos-14-236ad3" alt="repos" />
-  <img src="https://img.shields.io/github/stars/Mattiasr6?label=Stars&color=yellow" alt="stars" />
+  <img src="https://img.shields.io/github/stars/Mattiasr6?label=Total+Stars&color=yellow" alt="stars" />
 </p>
 
 ---
 
-### 🛠 Tech Stack
+### 📊 GitHub Analytics
 
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL+Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05033?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS+Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mattiasr6&theme=radical" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mattiasr6&theme=react-dark&hide_border=true" width="95%" />
+</div>
 
 ---
 
-### 📘 Featured Projects
+### 🛠️ Languages & Tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL+Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
+
+---
+
+### 📌 Featured Projects
 
 <table>
-  <thead align="center">
-    <tr>
-      <td><b>Project</b></td>
-      <td><b>Description</b></td>
-      <td><b>Stack</b></td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://github.com/Mattiasr6/MattCode"><b>MattCode</b></a></td>
-      <td>AI coding agent for the terminal</td>
-      <td>Go</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/Mattiasr6/whaticket-bot"><b>whaticket-bot</b></a></td>
-      <td>WhatsApp ticketing + AI</td>
-      <td>TypeScript</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/Mattiasr6/HomeServer"><b>HomeServer</b></a></td>
-      <td>Personal server infrastructure</td>
-      <td>C#</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/Mattiasr6/KernelCrew"><b>KernelCrew</b></a></td>
-      <td>Online courses platform</td>
-      <td>Laravel + Angular</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/Mattiasr6/Soporte_Tecnico"><b>Soporte Técnico</b></a></td>
-      <td>Technical support reporting</td>
-      <td>C# + SQL Server</td>
-    </tr>
-  </tbody>
+  <tr>
+    <td width="50%" align="center">
+      <h3><a href="https://github.com/Mattiasr6/MattCode">🤖 MattCode</a></h3>
+      <p>AI coding agent for the terminal<br/><em>Go</em></p>
+      <img src="https://img.shields.io/github/stars/Mattiasr6/MattCode?style=social" />
+    </td>
+    <td width="50%" align="center">
+      <h3><a href="https://github.com/Mattiasr6/whaticket-bot">💬 whaticket-bot</a></h3>
+      <p>WhatsApp ticketing system + AI<br/><em>TypeScript + Docker</em></p>
+      <img src="https://img.shields.io/github/stars/Mattiasr6/whaticket-bot?style=social" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <h3><a href="https://github.com/Mattiasr6/HomeServer">🏠 HomeServer</a></h3>
+      <p>Personal server infrastructure<br/><em>C# + TypeScript</em></p>
+      <img src="https://img.shields.io/github/stars/Mattiasr6/HomeServer?style=social" />
+    </td>
+    <td width="50%" align="center">
+      <h3><a href="https://github.com/Mattiasr6/KernelCrew">🎓 KernelCrew</a></h3>
+      <p>Online courses platform<br/><em>Laravel + Angular</em></p>
+      <img src="https://img.shields.io/github/stars/Mattiasr6/KernelCrew?style=social" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" colspan="2">
+      <h3><a href="https://github.com/Mattiasr6/Soporte_Tecnico">🛠️ Soporte Técnico</a></h3>
+      <p>Technical support reporting system<br/><em>C# + TypeScript + SQL Server</em></p>
+      <img src="https://img.shields.io/github/stars/Mattiasr6/Soporte_Tecnico?style=social" />
+    </td>
+  </tr>
 </table>
 
 <p align="center">
-  <a href="https://github.com/Mattiasr6?tab=repositories"><img src="https://img.shields.io/badge/All+Repos-236ad3?logo=github&logoColor=white" alt="repos" /></a>
+  <a href="https://github.com/Mattiasr6?tab=repositories"><img src="https://img.shields.io/badge/🔍+View+All+Repos-236ad3?style=for-the-badge" alt="repos" /></a>
 </p>
 
 ---
