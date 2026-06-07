@@ -1,27 +1,24 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+<img alt="Header" src="https://raw.githubusercontent.com/Mattiasr6/Mattiasr6/main/header.png">
 
-<h3 align="center">Hey there, I'm <a href="https://github.com/Mattiasr6">Mattias</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h3>
+Soy **Mattias**, un desarrollador full-stack apasionado por construir cosas que funcionan. Mi journey empezó con C# y .NET, y con el tiempo fue evolucionando hacia **TypeScript**, **Go** y todo lo que tenga que ver con **AI tooling**.
 
-<p align="center">
-  <a href="https://github.com/Mattiasr6"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/Mattiasr6?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
-  <a href="https://github.com/Mattiasr6/Mattiasr6"><img alt="views" title="Profile views" src="https://komarev.com/ghpvc/?username=Mattiasr6&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge"/></a>
+Actualmente trabajo en **[MattCode](https://github.com/Mattiasr6/MattCode)** (un fork de OpenCode), donde exploro cómo hacer que las IAs ayuden a los desarrolladores de forma real. También mantengo varios proyectos de **WhatsApp bots** y **sistemas de punto de venta**.
+
+> Si tienes un proyecto interesante o simplemente quieres charlar de tech, escríbeme. Siempre estoy abierto a nuevas ideas. 😊
+
+<p>
+  <a href="https://github.com/Mattiasr6" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/Mattiasr6/Mattiasr6"><img alt="Profile views" src="https://komarev.com/ghpvc/?username=Mattiasr6&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge"/></a>
 </p>
 
-## 📖 About me
+---
 
-* 💻 Full-Stack Developer specializing in **C# (.NET)** and **TypeScript**
-* 🤖 Building AI-powered tools and WhatsApp integrations
-* 🐳 Docker enthusiast — I self-host everything
-* 🧠 Currently exploring **Go** and **agentic AI workflows**
-* 🔥 Fork maintainer of [MattCode](https://github.com/Mattiasr6/MattCode) (OpenCode fork)
-* ⚡ I believe in building real solutions for real problems
+| ![](https://github-readme-stats.vercel.app/api?username=Mattiasr6&show_icons=true&count_private=true&theme=radical) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mattiasr6&layout=compact&theme=radical&langs_count=8) |
+|---|---|
 
-<p align="left">
-  <a href="https://github.com/Mattiasr6?tab=repositories"><img alt="Repos" title="My Repos" src="https://img.shields.io/badge/-Repos-236ad3?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://github.com/Mattiasr6?tab=repositories&q=&type=&language=&sort=stars"><img alt="Stars" title="Top Stars" src="https://img.shields.io/badge/-Top%20Stars-FFD700?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
+---
 
-## 🔥 My contribution streak
+### 🔥 My contribution streak
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
@@ -29,104 +26,80 @@
   </a>
 </p>
 
-<h3 align="center">⬇ Scroll down to see <a href="https://github.com/Mattiasr6?tab=repositories">my repos</a>! ⭐ Stars are appreciated!</h3>
+---
 
-## 🙋‍♂️ Connect with me:
+### 🛠 Technologies
 
-<p align="left">
-  <a href="https://github.com/Mattiasr6"><img alt="GitHub" title="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<p align="center">
+  <img alt="C#" src="https://img.shields.io/badge/C%23-239120.svg?&style=for-the-badge&logo=csharp&logoColor=white"/>
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img alt="Go" src="https://img.shields.io/badge/Go-00ADD8.svg?&style=for-the-badge&logo=go&logoColor=white"/>
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+  <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/>
+  <br>
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img alt="SQL Server" src="https://img.shields.io/badge/SQL%20Server-CC2927.svg?&style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
+  <img alt="React" src="https://img.shields.io/badge/React-20232A.svg?&style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000.svg?&style=for-the-badge&logo=next.js&logoColor=white"/>
+  <img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4.svg?&style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <br>
+  <img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20.svg?&style=for-the-badge&logo=laravel&logoColor=white"/>
+  <img alt="Supabase" src="https://img.shields.io/badge/Supabase-3FCF8E.svg?&style=for-the-badge&logo=supabase&logoColor=white"/>
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624.svg?&style=for-the-badge&logo=linux&logoColor=black"/>
+  <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 </p>
 
-## 📘 My top projects
+---
+
+### 📘 Featured Projects
 
 <table>
   <thead align="center">
-    <tr border: none;>
-      <td><b>📘 Project</b></td>
-      <td><b>📝 Description</b></td>
-      <td><b>⭐ Stars</b></td>
+    <tr>
+      <td><b>Project</b></td>
+      <td><b>Description</b></td>
+      <td><b>Stack</b></td>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td><a href="https://github.com/Mattiasr6/MattCode"><b>MattCode</b></a></td>
-      <td>AI coding agent for the terminal (Go)</td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/Mattiasr6/MattCode?style=flat-square&labelColor=343b41"/></td>
+      <td>AI coding agent for the terminal</td>
+      <td><img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"/></td>
     </tr>
     <tr>
       <td><a href="https://github.com/Mattiasr6/whaticket-bot"><b>whaticket-bot</b></a></td>
-      <td>WhatsApp ticketing system + AI</td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/Mattiasr6/whaticket-bot?style=flat-square&labelColor=343b41"/></td>
+      <td>WhatsApp ticketing + AI</td>
+      <td><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"/></td>
     </tr>
     <tr>
       <td><a href="https://github.com/Mattiasr6/HomeServer"><b>HomeServer</b></a></td>
       <td>Personal server infrastructure</td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/Mattiasr6/HomeServer?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white"/></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/Mattiasr6/GraphVision-BFS-DFS"><b>GraphVision</b></a></td>
-      <td>Graph algorithms visualization</td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/Mattiasr6/GraphVision-BFS-DFS?style=flat-square&labelColor=343b41"/></td>
+      <td><a href="https://github.com/Mattiasr6/KernelCrew"><b>KernelCrew</b></a></td>
+      <td>Online courses platform</td>
+      <td><img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/> <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Mattiasr6/Soporte_Tecnico"><b>Soporte Técnico</b></a></td>
+      <td>Technical support reporting</td>
+      <td><img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white"/> <img alt="SQL Server" src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white"/></td>
     </tr>
   </tbody>
 </table>
 
-<p align="left">
-  <a href="https://github.com/Mattiasr6?tab=repositories"><img alt="More Repos" title="More Repos" src="https://img.shields.io/badge/-More%20Repos-black?style=for-the-badge&logo=addthis&logoColor=white"/></a>
+<p align="center">
+  <a href="https://github.com/Mattiasr6?tab=repositories"><img alt="More Repos" src="https://img.shields.io/badge/-More%20Repos-236ad3?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
-## 👨‍💻 Languages and Tools:
+---
 
-<table>
-    <tbody>
-        <tr>
-            <td><a href="#"><img alt="C#" title="C#" height="28px" src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" /></a></td>
-            <td><a href="#"><img alt="TypeScript" title="TypeScript" height="28px" src="https://img.icons8.com/color/48/000000/typescript.png" /></a></td>
-            <td><a href="#"><img alt="Go" title="Go" height="28px" src="https://img.icons8.com/color/48/000000/golang.png" /></a></td>
-            <td><a href="#"><img alt="JavaScript" title="JavaScript" height="28px" src="https://img.icons8.com/color/48/000000/javascript.png" /></a></td>
-            <td><a href="#"><img alt="PHP" title="PHP" height="28px" src="https://img.icons8.com/officel/48/000000/php.png" /></a></td>
-        </tr>
-        <tr>
-            <td><a href="#"><img alt="Python" title="Python" height="28px" src="https://img.icons8.com/color/48/000000/python.png" /></a></td>
-            <td><a href="#"><img alt="HTML5" title="HTML5" height="28px" src="https://img.icons8.com/color/48/000000/html-5.png" /></a></td>
-            <td><a href="#"><img alt="CSS3" title="CSS3" height="28px" src="https://img.icons8.com/color/48/000000/css3.png" /></a></td>
-            <td><a href="#"><img alt="PostgreSQL" title="PostgreSQL" height="28px" src="https://img.icons8.com/color/48/000000/postgresql.png" /></a></td>
-            <td><a href="#"><img alt="Docker" title="Docker" height="28px" src="https://img.icons8.com/color/48/000000/docker.png" /></a></td>
-        </tr>
-        <tr>
-            <td><a href="#"><img alt="React" title="React" height="28px" src="https://img.icons8.com/color/48/000000/react-native.png" /></a></td>
-            <td><a href="#"><img alt="NodeJS" title="NodeJS" height="28px" src="https://img.icons8.com/color/48/000000/nodejs.png" /></a></td>
-            <td><a href="#"><img alt="Laravel" title="Laravel" height="28px" src="https://img.icons8.com/color/48/000000/laravel.png" /></a></td>
-            <td><a href="#"><img alt=".NET" title=".NET" height="28px" src="https://img.icons8.com/color/48/000000/net-framework.png" /></a></td>
-            <td><a href="#"><img alt="Git" title="Git" height="28px" src="https://img.icons8.com/color/48/000000/git.png" /></a></td>
-        </tr>
-        <tr>
-            <td><a href="#"><img alt="VS Code" title="VS Code" height="28px" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" /></a></td>
-            <td><a href="#"><img alt="Linux" title="Linux" height="28px" src="https://img.icons8.com/color/48/000000/linux.png" /></a></td>
-            <td><a href="#"><img alt="Supabase" title="Supabase" height="28px" src="https://img.icons8.com/color/48/000000/supabase.png" /></a></td>
-            <td><a href="#"><img alt="GitHub" title="GitHub" height="28px" src="https://img.icons8.com/color/48/000000/github.png" /></a></td>
-            <td><a href="#"><img alt="SQL Server" title="SQL Server" height="28px" src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" /></a></td>
-        </tr>
-    </tbody>
-</table>
-
-## 📈 Github Stats
-
-<details>
-  <summary>📊 GitHub Profile Stats</summary>
-  <br/>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Mattiasr6's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Mattiasr6&show_icons=true&count_private=true&theme=radical" /></a>
-</details>
-
-<details> 
-  <summary>💻 Most used languages</summary>
-  <br/>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Mattiasr6's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mattiasr6&langs_count=8&layout=compact&theme=radical" /></a>
-  <br/>
-  <b>Note:</b> This chart is only a metric of which languages my public code on GitHub consists of and does not reflect my experience or skill level.
-</details>
-
------
-Credits: [DenverCoder1](https://github.com/DenverCoder1) for the template inspiration
+Credits: [wyattowalsh](https://github.com/wyattowalsh) for the template inspiration
 
 Last Edited on: 07/06/2026
