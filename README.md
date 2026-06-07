@@ -1,147 +1,132 @@
-<div align="center">
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-# Hey there 👋, I'm Mattias
+<h3 align="center">Hey there, I'm <a href="https://github.com/Mattiasr6">Mattias</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h3>
 
-### `> building things that matter_`
+<p align="center">
+  <a href="https://github.com/Mattiasr6"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/Mattiasr6?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
+  <a href="https://github.com/Mattiasr6/Mattiasr6"><img alt="views" title="Profile views" src="https://komarev.com/ghpvc/?username=Mattiasr6&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge"/></a>
+</p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Full-Stack+Developer;AI+Enthusiast;Open+Source+Contributor;Always+learning+something+new)](https://git.io/typing-svg)
+## 📖 About me
 
-</div>
+* 💻 Full-Stack Developer specializing in **C# (.NET)** and **TypeScript**
+* 🤖 Building AI-powered tools and WhatsApp integrations
+* 🐳 Docker enthusiast — I self-host everything
+* 🧠 Currently exploring **Go** and **agentic AI workflows**
+* 🔥 Fork maintainer of [MattCode](https://github.com/Mattiasr6/MattCode) (OpenCode fork)
+* ⚡ I believe in building real solutions for real problems
 
----
+<p align="left">
+  <a href="https://github.com/Mattiasr6?tab=repositories"><img alt="Repos" title="My Repos" src="https://img.shields.io/badge/-Repos-236ad3?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://github.com/Mattiasr6?tab=repositories&q=&type=&language=&sort=stars"><img alt="Stars" title="Top Stars" src="https://img.shields.io/badge/-Top%20Stars-FFD700?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
 
-## 🧠 About Me
+## 🔥 My contribution streak
 
-- 🔭 Currently working on **AI-powered tools** & **WhatsApp integrations**
-- 🌱 Exploring **Go**, **LLM tooling**, and **agentic workflows**
-- 💡 I believe in **building real solutions** for real problems
-- 🎯 Goal: Ship products that people actually use
-- ⚡ Fun fact: I fork OpenCode and make it mine 😎
+<p align="center">
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mattiasr6&theme=radical"/>
+  </a>
+</p>
 
----
+<h3 align="center">⬇ Scroll down to see <a href="https://github.com/Mattiasr6?tab=repositories">my repos</a>! ⭐ Stars are appreciated!</h3>
 
-## 🛠️ My Arsenal
+## 🙋‍♂️ Connect with me:
 
-<div align="center">
+<p align="left">
+  <a href="https://github.com/Mattiasr6"><img alt="GitHub" title="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
 
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![PostGIS](https://img.shields.io/badge/PostGIS-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
-</div>
-
----
-
-## 📂 Featured Projects
+## 📘 My top projects
 
 <table>
-<tr>
-<td width="50%">
-
-### 🤖 Whaticket Bot
-> WhatsApp ticketing system + AI integration
-
-`TypeScript` `Node.js` `Docker` `WhatsApp API`
-
-[![Repo](https://img.shields.io/badge/Repo-FF4500?style=flat&logo=github&logoColor=white)](https://github.com/Mattiasr6/whaticket-bot)
-
-</td>
-<td width="50%">
-
-### 🖥️ HomeServer
-> Personal server infrastructure
-
-`C#` `TypeScript` `Docker` `Self-hosted`
-
-[![Repo](https://img.shields.io/badge/Repo-FF4500?style=flat&logo=github&logoColor=white)](https://github.com/Mattiasr6/HomeServer)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🎓 KernelCrew
-> Online courses platform with payments
-
-`Laravel` `Angular` `TypeScript` `Blade`
-
-[![Repo](https://img.shields.io/badge/Repo-FF4500?style=flat&logo=github&logoColor=white)](https://github.com/Mattiasr6/KernelCrew)
-
-</td>
-<td width="50%">
-
-### 🛠️ Soporte Técnico
-> Technical support reporting system
-
-`C#` `TypeScript` `SQL Server`
-
-[![Repo](https://img.shields.io/badge/Repo-FF4500?style=flat&logo=github&logoColor=white)](https://github.com/Mattiasr6/Soporte_Tecnico)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 💻 MattCode
-> AI coding agent for the terminal (OpenCode fork)
-
-`Go` `TUI` `LLM Integration`
-
-[![Repo](https://img.shields.io/badge/Repo-FF4500?style=flat&logo=github&logoColor=white)](https://github.com/Mattiasr6/MattCode)
-
-</td>
-<td width="50%">
-
-### 🏪 WidShop
-> POS & inventory management system
-
-`C#` `.NET` `Docker`
-
-[![Repo](https://img.shields.io/badge/Repo-FF4500?style=flat&logo=github&logoColor=white)](https://github.com/Mattiasr6/WidShop)
-
-</td>
-</tr>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>📘 Project</b></td>
+      <td><b>📝 Description</b></td>
+      <td><b>⭐ Stars</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/Mattiasr6/MattCode"><b>MattCode</b></a></td>
+      <td>AI coding agent for the terminal (Go)</td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/Mattiasr6/MattCode?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Mattiasr6/whaticket-bot"><b>whaticket-bot</b></a></td>
+      <td>WhatsApp ticketing system + AI</td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/Mattiasr6/whaticket-bot?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Mattiasr6/HomeServer"><b>HomeServer</b></a></td>
+      <td>Personal server infrastructure</td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/Mattiasr6/HomeServer?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Mattiasr6/GraphVision-BFS-DFS"><b>GraphVision</b></a></td>
+      <td>Graph algorithms visualization</td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/Mattiasr6/GraphVision-BFS-DFS?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+  </tbody>
 </table>
 
----
+<p align="left">
+  <a href="https://github.com/Mattiasr6?tab=repositories"><img alt="More Repos" title="More Repos" src="https://img.shields.io/badge/-More%20Repos-black?style=for-the-badge&logo=addthis&logoColor=white"/></a>
+</p>
 
-## 📊 GitHub Activity
+## 👨‍💻 Languages and Tools:
 
-<div align="center">
+<table>
+    <tbody>
+        <tr>
+            <td><a href="#"><img alt="C#" title="C#" height="28px" src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" /></a></td>
+            <td><a href="#"><img alt="TypeScript" title="TypeScript" height="28px" src="https://img.icons8.com/color/48/000000/typescript.png" /></a></td>
+            <td><a href="#"><img alt="Go" title="Go" height="28px" src="https://img.icons8.com/color/48/000000/golang.png" /></a></td>
+            <td><a href="#"><img alt="JavaScript" title="JavaScript" height="28px" src="https://img.icons8.com/color/48/000000/javascript.png" /></a></td>
+            <td><a href="#"><img alt="PHP" title="PHP" height="28px" src="https://img.icons8.com/officel/48/000000/php.png" /></a></td>
+        </tr>
+        <tr>
+            <td><a href="#"><img alt="Python" title="Python" height="28px" src="https://img.icons8.com/color/48/000000/python.png" /></a></td>
+            <td><a href="#"><img alt="HTML5" title="HTML5" height="28px" src="https://img.icons8.com/color/48/000000/html-5.png" /></a></td>
+            <td><a href="#"><img alt="CSS3" title="CSS3" height="28px" src="https://img.icons8.com/color/48/000000/css3.png" /></a></td>
+            <td><a href="#"><img alt="PostgreSQL" title="PostgreSQL" height="28px" src="https://img.icons8.com/color/48/000000/postgresql.png" /></a></td>
+            <td><a href="#"><img alt="Docker" title="Docker" height="28px" src="https://img.icons8.com/color/48/000000/docker.png" /></a></td>
+        </tr>
+        <tr>
+            <td><a href="#"><img alt="React" title="React" height="28px" src="https://img.icons8.com/color/48/000000/react-native.png" /></a></td>
+            <td><a href="#"><img alt="NodeJS" title="NodeJS" height="28px" src="https://img.icons8.com/color/48/000000/nodejs.png" /></a></td>
+            <td><a href="#"><img alt="Laravel" title="Laravel" height="28px" src="https://img.icons8.com/color/48/000000/laravel.png" /></a></td>
+            <td><a href="#"><img alt=".NET" title=".NET" height="28px" src="https://img.icons8.com/color/48/000000/net-framework.png" /></a></td>
+            <td><a href="#"><img alt="Git" title="Git" height="28px" src="https://img.icons8.com/color/48/000000/git.png" /></a></td>
+        </tr>
+        <tr>
+            <td><a href="#"><img alt="VS Code" title="VS Code" height="28px" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" /></a></td>
+            <td><a href="#"><img alt="Linux" title="Linux" height="28px" src="https://img.icons8.com/color/48/000000/linux.png" /></a></td>
+            <td><a href="#"><img alt="Supabase" title="Supabase" height="28px" src="https://img.icons8.com/color/48/000000/supabase.png" /></a></td>
+            <td><a href="#"><img alt="GitHub" title="GitHub" height="28px" src="https://img.icons8.com/color/48/000000/github.png" /></a></td>
+            <td><a href="#"><img alt="SQL Server" title="SQL Server" height="28px" src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" /></a></td>
+        </tr>
+    </tbody>
+</table>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Mattiasr6&theme=radical&border=3ddc84&fire=FF4500&currStreakLabel=3ddc84)](https://git.io/streak-stats)
+## 📈 Github Stats
 
-</div>
+<details>
+  <summary>📊 GitHub Profile Stats</summary>
+  <br/>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Mattiasr6's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Mattiasr6&show_icons=true&count_private=true&theme=radical" /></a>
+</details>
 
----
+<details> 
+  <summary>💻 Most used languages</summary>
+  <br/>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Mattiasr6's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mattiasr6&langs_count=8&layout=compact&theme=radical" /></a>
+  <br/>
+  <b>Note:</b> This chart is only a metric of which languages my public code on GitHub consists of and does not reflect my experience or skill level.
+</details>
 
-## 🎯 Current Focus
+-----
+Credits: [DenverCoder1](https://github.com/DenverCoder1) for the template inspiration
 
-```
-┌─────────────────────────────────────────────┐
-│  🔥 Building AI agents & tooling            │
-│  📚 Learning Go + Systems Programming       │
-│  🚀 Deploying with Docker + Self-hosting    │
-│  💬 WhatsApp AI integrations                │
-└─────────────────────────────────────────────┘
-```
-
----
-
-<div align="center">
-
-### 💭 *"The best way to predict the future is to build it."*
-
-![Profile Views](https://komarev.com/ghpvc/?username=Mattiasr6&color=00D9FF&style=flat-square&label=PROFILE+VIEWS)
-
-</div>
+Last Edited on: 07/06/2026
