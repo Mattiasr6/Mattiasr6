@@ -6,7 +6,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/Mattiasr6?label=Followers" alt="followers" />
-  <img src="https://img.shields.io/github/repos/Mattiasr6?label=Repos" alt="repos" />
+  <img src="https://img.shields.io/badge/Repos-14-236ad3" alt="repos" />
   <img src="https://img.shields.io/github/stars/Mattiasr6?label=Stars&color=yellow" alt="stars" />
 </p>
 
@@ -44,34 +44,34 @@
     <tr>
       <td><b>Project</b></td>
       <td><b>Description</b></td>
-      <td><b>Stars</b></td>
+      <td><b>Stack</b></td>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td><a href="https://github.com/Mattiasr6/MattCode"><b>MattCode</b></a></td>
       <td>AI coding agent for the terminal</td>
-      <td><img src="https://img.shields.io/github/stars/Mattiasr6/MattCode" alt="stars" /></td>
+      <td>Go</td>
     </tr>
     <tr>
       <td><a href="https://github.com/Mattiasr6/whaticket-bot"><b>whaticket-bot</b></a></td>
       <td>WhatsApp ticketing + AI</td>
-      <td><img src="https://img.shields.io/github/stars/Mattiasr6/whaticket-bot" alt="stars" /></td>
+      <td>TypeScript</td>
     </tr>
     <tr>
       <td><a href="https://github.com/Mattiasr6/HomeServer"><b>HomeServer</b></a></td>
       <td>Personal server infrastructure</td>
-      <td><img src="https://img.shields.io/github/stars/Mattiasr6/HomeServer" alt="stars" /></td>
+      <td>C#</td>
     </tr>
     <tr>
       <td><a href="https://github.com/Mattiasr6/KernelCrew"><b>KernelCrew</b></a></td>
       <td>Online courses platform</td>
-      <td><img src="https://img.shields.io/github/stars/Mattiasr6/KernelCrew" alt="stars" /></td>
+      <td>Laravel + Angular</td>
     </tr>
     <tr>
       <td><a href="https://github.com/Mattiasr6/Soporte_Tecnico"><b>Soporte Técnico</b></a></td>
       <td>Technical support reporting</td>
-      <td><img src="https://img.shields.io/github/stars/Mattiasr6/Soporte_Tecnico" alt="stars" /></td>
+      <td>C# + SQL Server</td>
     </tr>
   </tbody>
 </table>
@@ -81,5 +81,3 @@
 </p>
 
 ---
-
-Credits: [KevinPatel04](https://github.com/KevinPatel04) for the template inspiration
